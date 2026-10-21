@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obmocja>
+    <obmocje id="O1">
+        <ime>Maribor</ime>
+        <drzava>Slovenija</drzava>
+        <sirina>46.5547</sirina>
+        <dolzina>15.6459</dolzina>
+    </obmocje>
+    <obmocje id="O2">
+        <ime>Ljubljana</ime>
+        <drzava>Slovenija</drzava>
+        <sirina>46.0569</sirina>
+        <dolzina>14.5058</dolzina>
+    </obmocje>
+    <obmocje id="O3">
+        <ime>Reykjavik</ime>
+        <drzava>Islandija</drzava>
+        <sirina>64.1466</sirina>
+        <dolzina>-21.9426</dolzina>
+    </obmocje>
+    <obmocje id="O4">
+        <ime>Napoli</ime>
+        <drzava>Italija</drzava>
+        <sirina>40.8518</sirina>
+        <dolzina>14.2681</dolzina>
+    </obmocje>
+    <obmocje id="O5">
+        <ime>Honolulu</ime>
+        <drzava>ZDA</drzava>
+        <sirina>21.3099</sirina>
+        <dolzina>-157.8581</dolzina>
+    </obmocje>
+    <obmocje id="O6">
+        <ime>Los Angeles</ime>
+        <drzava>ZDA</drzava>
+        <sirina>34.0522</sirina>
+        <dolzina>-118.2437</dolzina>
+    </obmocje>
+    <obmocje id="O7">
+        <ime>Vancouver</ime>
+        <drzava>Kanada</drzava>
+        <sirina>49.2827</sirina>
+        <dolzina>-123.1207</dolzina>
+    </obmocje>
+    <obmocje id="O8">
+        <ime>Mexico City</ime>
+        <drzava>Mehika</drzava>
+        <sirina>19.4326</sirina>
+        <dolzina>-99.1332</dolzina>
+    </obmocje>
+    <obmocje id="O9">
+        <ime>Rio de Janeiro</ime>
+        <drzava>Brazilija</drzava>
+        <sirina>-22.9068</sirina>
+        <dolzina>-43.1729</dolzina>
+    </obmocje>
+    <obmocje id="O10">
+        <ime>Sydney</ime>
+        <drzava>Avstralija</drzava>
+        <sirina>-33.8688</sirina>
+        <dolzina>151.2093</dolzina>
+    </obmocje>
+    <obmocje id="O11">
+        <ime>Auckland</ime>
+        <drzava>Nova Zelandija</drzava>
+        <sirina>-36.8509</sirina>
+        <dolzina>174.7645</dolzina>
+    </obmocje>
+    <obmocje id="O12">
+        <ime>Tokyo</ime>
+        <drzava>Japonska</drzava>
+        <sirina>35.6762</sirina>
+        <dolzina>139.6503</dolzina>
+    </obmocje>
+    <obmocje id="O13">
+        <ime>Jakarta</ime>
+        <drzava>Indonezija</drzava>
+        <sirina>-6.2088</sirina>
+        <dolzina>106.8456</dolzina>
+    </obmocje>
+    <obmocje id="O14">
+        <ime>Nairobi</ime>
+        <drzava>Kenija</drzava>
+        <sirina>-1.2921</sirina>
+        <dolzina>36.8219</dolzina>
+    </obmocje>
+    <obmocje id="O15">
+        <ime>Cape Town</ime>
+        <drzava>Juzna Afrika</drzava>
+        <sirina>-33.9249</sirina>
+        <dolzina>18.4241</dolzina>
+    </obmocje>
+</obmocja>

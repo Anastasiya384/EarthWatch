@@ -1,0 +1,28 @@
+[
+  {
+    "dogodek": {
+      "id": "D5",
+      "ime": "Poplave po mocnem dezju",
+      "kategorija": "Poplave",
+      "datum": "2026-09-22",
+      "aktivnost": "aktiven",
+      "steviloZadetkov": 15,
+      "zadnjicSpremenjeno": "2026-09-23"
+    },
+    "obmocje": {
+      "id": "O5",
+      "ime": "Honolulu",
+      "drzava": "ZDA",
+      "sirina": 21.3099,
+      "dolzina": -157.8581
+    },
+    "obvestila": [
+      {
+        "id": "OB5",
+        "datumUstvarjanja": "2026-09-22",
+        "sporocilo": "Prejeto je bilo obvestilo o poplavah na Havajih.",
+        "status": "pregledano"
+      }
+    ]
+  }
+]

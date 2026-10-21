@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogodki>
+    <dogodek id="D1">
+        <ime>Gozdni pozar</ime>
+        <kategorija>Pozar</kategorija>
+        <obmocjeId>O1</obmocjeId>
+        <datum>2026-09-12</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>12</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-12</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D2">
+        <ime>Vulkanski izbruh</ime>
+        <kategorija>Vulkan</kategorija>
+        <obmocjeId>O3</obmocjeId>
+        <datum>2026-09-15</datum>
+        <aktivnost>neaktiven</aktivnost>
+        <steviloZadetkov>4</steviloZadetkov>
+        <zadnjicSpremenjeno></zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D3">
+        <ime>Mocna nevihta</ime>
+        <kategorija>Nevihte</kategorija>
+        <obmocjeId>O2</obmocjeId>
+        <datum>2026-09-18</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>8</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-18</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D4">
+        <ime>Vulkanska aktivnost</ime>
+        <kategorija>Vulkan</kategorija>
+        <obmocjeId>O4</obmocjeId>
+        <datum>2026-09-20</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>6</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-21</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D5">
+        <ime>Poplave po mocnem dezju</ime>
+        <kategorija>Poplave</kategorija>
+        <obmocjeId>O5</obmocjeId>
+        <datum>2026-09-22</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>15</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-23</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D6">
+        <ime>Gozdni pozar</ime>
+        <kategorija>Pozar</kategorija>
+        <obmocjeId>O6</obmocjeId>
+        <datum>2026-09-24</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>21</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-25</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D7">
+        <ime>Močno neurje</ime>
+        <kategorija>Nevihte</kategorija>
+        <obmocjeId>O7</obmocjeId>
+        <datum>2026-09-26</datum>
+        <aktivnost>neaktiven</aktivnost>
+        <steviloZadetkov>9</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-27</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D8">
+        <ime>Potres</ime>
+        <kategorija>Potres</kategorija>
+        <obmocjeId>O8</obmocjeId>
+        <datum>2026-09-28</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>3</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-28</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D9">
+        <ime>Poplave</ime>
+        <kategorija>Poplave</kategorija>
+        <obmocjeId>O9</obmocjeId>
+        <datum>2026-09-29</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>17</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-09-30</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D10">
+        <ime>Gozdni pozar</ime>
+        <kategorija>Pozar</kategorija>
+        <obmocjeId>O10</obmocjeId>
+        <datum>2026-10-01</datum>
+        <aktivnost>neaktiven</aktivnost>
+        <steviloZadetkov>11</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-02</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D11">
+        <ime>Potres</ime>
+        <kategorija>Potres</kategorija>
+        <obmocjeId>O11</obmocjeId>
+        <datum>2026-10-03</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>5</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-03</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D12">
+        <ime>Tropska nevihta</ime>
+        <kategorija>Nevihte</kategorija>
+        <obmocjeId>O12</obmocjeId>
+        <datum>2026-10-05</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>14</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-06</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D13">
+        <ime>Vulkanska aktivnost</ime>
+        <kategorija>Vulkan</kategorija>
+        <obmocjeId>O13</obmocjeId>
+        <datum>2026-10-08</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>7</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-08</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D14">
+        <ime>Suša</ime>
+        <kategorija>Susa</kategorija>
+        <obmocjeId>O14</obmocjeId>
+        <datum>2026-10-10</datum>
+        <aktivnost>aktiven</aktivnost>
+        <steviloZadetkov>10</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-11</zadnjicSpremenjeno>
+    </dogodek>
+    <dogodek id="D15">
+        <ime>Močno neurje</ime>
+        <kategorija>Nevihte</kategorija>
+        <obmocjeId>O15</obmocjeId>
+        <datum>2026-10-12</datum>
+        <aktivnost>neaktiven</aktivnost>
+        <steviloZadetkov>6</steviloZadetkov>
+        <zadnjicSpremenjeno>2026-10-13</zadnjicSpremenjeno>
+    </dogodek>
+</dogodki>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obvestila>
+    <obvestilo id="OB1">
+        <dogodekId>D1</dogodekId>
+        <datumUstvarjanja>2026-09-12</datumUstvarjanja>
+        <sporocilo>Na obmocju Maribora je bil zabelezen gozdni pozar.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB2">
+        <dogodekId>D2</dogodekId>
+        <datumUstvarjanja>2026-09-15</datumUstvarjanja>
+        <sporocilo>Zabelezena je bila vulkanska aktivnost na Islandiji.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+    <obvestilo id="OB3">
+        <dogodekId>D3</dogodekId>
+        <datumUstvarjanja>2026-09-18</datumUstvarjanja>
+        <sporocilo>Na obmocju Ljubljane je bila zabelezena mocna nevihta.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB4">
+        <dogodekId>D4</dogodekId>
+        <datumUstvarjanja>2026-09-20</datumUstvarjanja>
+        <sporocilo>Zabelezeno je bilo vulkansko dogajanje v Italiji.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB5">
+        <dogodekId>D5</dogodekId>
+        <datumUstvarjanja>2026-09-22</datumUstvarjanja>
+        <sporocilo>Prejeto je bilo obvestilo o poplavah na Havajih.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+    <obvestilo id="OB6">
+        <dogodekId>D6</dogodekId>
+        <datumUstvarjanja>2026-09-24</datumUstvarjanja>
+        <sporocilo>Zabelezena je bila aktivnost pozara v okolici Los Angelesa.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB7">
+        <dogodekId>D7</dogodekId>
+        <datumUstvarjanja>2026-09-26</datumUstvarjanja>
+        <sporocilo>Zabelezena je bila nevihta v okolici Vancouvra.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+    <obvestilo id="OB8">
+        <dogodekId>D8</dogodekId>
+        <datumUstvarjanja>2026-09-28</datumUstvarjanja>
+        <sporocilo>Prejeto je bilo obvestilo o potresu v Mehiki.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB9">
+        <dogodekId>D9</dogodekId>
+        <datumUstvarjanja>2026-09-29</datumUstvarjanja>
+        <sporocilo>Zabelezene so bile poplave v okolici Rio de Janeira.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB10">
+        <dogodekId>D10</dogodekId>
+        <datumUstvarjanja>2026-10-01</datumUstvarjanja>
+        <sporocilo>Zabelezen je bil gozdni pozar v okolici Sydneya.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+    <obvestilo id="OB11">
+        <dogodekId>D11</dogodekId>
+        <datumUstvarjanja>2026-10-03</datumUstvarjanja>
+        <sporocilo>Prejeto je bilo obvestilo o potresu na Novi Zelandiji.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB12">
+        <dogodekId>D12</dogodekId>
+        <datumUstvarjanja>2026-10-05</datumUstvarjanja>
+        <sporocilo>Zabelezena je bila mocna nevihta na Japonskem.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB13">
+        <dogodekId>D13</dogodekId>
+        <datumUstvarjanja>2026-10-08</datumUstvarjanja>
+        <sporocilo>Zabelezeno je bilo vulkansko dogajanje v Indoneziji.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+    <obvestilo id="OB14">
+        <dogodekId>D14</dogodekId>
+        <datumUstvarjanja>2026-10-10</datumUstvarjanja>
+        <sporocilo>Prejeto je bilo obvestilo o susi v Keniji.</sporocilo>
+        <status>novo</status>
+    </obvestilo>
+    <obvestilo id="OB15">
+        <dogodekId>D15</dogodekId>
+        <datumUstvarjanja>2026-10-12</datumUstvarjanja>
+        <sporocilo>Zabelezena je bila nevihta v okolici Cape Towna.</sporocilo>
+        <status>pregledano</status>
+    </obvestilo>
+</obvestila>
