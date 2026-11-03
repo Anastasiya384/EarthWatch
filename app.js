@@ -105,7 +105,6 @@ rl.question(
                 zapis.obmocje.ime.toLowerCase() === mesto;
         });
 
-        // Rezultate pregledno izpišemo v konzolo.
         console.log("\nFiltrirani dogodki:");
 
         if (filtrirani.length === 0) {
