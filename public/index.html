@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EarthWatch – Statistika okolja</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Knjižnica za grafe -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>EarthWatch</h1>
+        <p>Spremljanje naravnih pojavov in okoljskih podatkov</p>
+    </header>
+
+    <main>
+        <section class="statistics">
+            <h2>Statistika okolja</h2>
+
+            <p>
+                Primerjava števila dni z nevihto po meteoroloških
+                postajah v Sloveniji.
+            </p>
+
+            <label for="stationSelect">
+                Izberi meteorološko postajo:
+            </label>
+
+            <select id="stationSelect">
+                <option value="">Nalaganje postaj...</option>
+            </select>
+
+            <div class="chart-container">
+                <canvas id="stormChart"></canvas>
+            </div>
+
+            <p id="status"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Vir podatkov: Statistični podatki v PC-Axis formatu</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
